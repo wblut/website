@@ -105,5 +105,11 @@ contributions:
       name: "Ari24"
       url: "https://github.com/ari24-cb24"
     source: "https://github.com/Ari24-cb24/Python-Speedcoding/tree/master/MarchingSquares"
+  - title: "Volumetric marching squares: triangulating the area between two levels"
+    author:
+    name: "Frederik Vanhoutte (W:Blut)"
+    url: "https://wblut.com"
+    source: "https://github.com/wblut/Processing3Sketches/tree/master/isovol2D"
+    source: "https://github.com/wblut/Processing3Sketches/tree/master/isovol2DDynamic"
 ---
 In this episode of Coding in the Cabana, Gloria Pickle and I investigate the Marching Squares algorithm and apply it to Open Simplex Noise in Processing.
